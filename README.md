@@ -1,6 +1,5 @@
 
-## Note: This repository is inherited from the old Tuya Github repository: xxxxxx, which will be deprecated soon. Please use this repository for Tuya SDK development instead. For changing the existing remote repository URL, please check this tutorial: https://github.com/TuyaInc/tuya-weapp-demo
-## An overview of the
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
 This is a simple version of fast access[Doodle applet SDK](https://developer.tuya.com/cn/docs/iot/app-development/mini-programs/overview/applet-ecology?id=K9ptacgp94o5d)，[配网插件](https://developer.tuya.com/cn/docs/iot/app-development/mini-programs/tuya-applet-with-web-plugin/distribution-network-plugin?id=K9lq218xn0wn8) and MQTT Of the connection Demo，It's stabilizing at the moment. New features will be updated in the future.
 
@@ -11,7 +10,9 @@ If you need to embed the function of small program distribution network in your 
 If you need to develop device control, scene linkage, automation and other functions in your own small program, you can call the corresponding interface through the small program SDK.
 
 If you need a doodle public applet to support your device, please contact us. Public version of the small program you can scan the code below the TWO-DIMENSIONAL code experience：
-
+<p align="center">
+<img width=200 src="E:\GitHub\minicode\a.JPG" >
+</p>
 <p align="center">
 <img width=200 src="https://images.tuyacn.com/rms-static/9cbc9210-cb1f-11ea-9723-5fcc4b1eeb4e-1595314722225.jpg?tyName=gh_42ad2888c42d_258.jpg" >
 </p>
