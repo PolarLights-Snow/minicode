@@ -11,7 +11,7 @@ If you need to develop device control, scene linkage, automation and other funct
 
 If you need a doodle public applet to support your device, please contact us. Public version of the small program you can scan the code below the TWO-DIMENSIONAL code experience：
 <p align="center">
-<img width=200 src="E:\GitHub\minicode\a.JPG" >
+<img width=600 src="https://github.com/PolarLights-Snow/minicode/a.JPG" >
 </p>
 <p align="center">
 <img width=200 src="https://images.tuyacn.com/rms-static/9cbc9210-cb1f-11ea-9723-5fcc4b1eeb4e-1595314722225.jpg?tyName=gh_42ad2888c42d_258.jpg" >
