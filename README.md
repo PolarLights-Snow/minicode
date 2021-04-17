@@ -3,6 +3,10 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 This is a simple version of fast access[Doodle applet SDK](https://developer.tuya.com/cn/docs/iot/app-development/mini-programs/overview/applet-ecology?id=K9ptacgp94o5d)，[配网插件](https://developer.tuya.com/cn/docs/iot/app-development/mini-programs/tuya-applet-with-web-plugin/distribution-network-plugin?id=K9lq218xn0wn8) and MQTT Of the connection Demo，It's stabilizing at the moment. New features will be updated in the future.
 
+Page screenshots：
+<p align="center">
+<img width=600 src="https://github.com/PolarLights-Snow/minicode/blob/main/a.JPG" >
+</p>
 ## experience
 
 If you need to embed the function of small program distribution network in your own small program, you can access the small program SDK to get your ticket information, then call the small program plug-in to complete the distribution network, and then call the interface to get device information again after the success of the distribution network.
@@ -10,9 +14,7 @@ If you need to embed the function of small program distribution network in your 
 If you need to develop device control, scene linkage, automation and other functions in your own small program, you can call the corresponding interface through the small program SDK.
 
 If you need a doodle public applet to support your device, please contact us. Public version of the small program you can scan the code below the TWO-DIMENSIONAL code experience：
-<p align="center">
-<img width=600 src="https://github.com/PolarLights-Snow/minicode/blob/main/a.JPG" >
-</p>
+
 <p align="center">
 <img width=200 src="https://images.tuyacn.com/rms-static/9cbc9210-cb1f-11ea-9723-5fcc4b1eeb4e-1595314722225.jpg?tyName=gh_42ad2888c42d_258.jpg" >
 </p>
