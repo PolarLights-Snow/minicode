@@ -22,13 +22,11 @@
     </block>
   </view>
 </block>
-<view class="scroll-view">
-  <text style="position: relative; left: 0rpx; top: 0rpx">电压：</text>
-
-  <text style="position: relative; left: 132rpx; top: 0rpx">电流：</text>
-
-  <text style="position: relative; left: 270rpx; top: 0rpx">功率：</text>
-
+<view class="scroll-view" style="width: 750rpx; height: 150rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">
+  <text style="position: relative; left: 85rpx; top: -25rpx">电压：</text>
+  <text style="position: relative; left: 336rpx; top: -24rpx">电流：</text>
+  <text style="position: relative; left: 204rpx; top: 46rpx">用电量：</text>
+  <text style="position: relative; left: -291rpx; top: 50rpx">功率：</text>
   <block wx:if="{{isRwDpListShow}}">
     <block wx:for="{{rwDpList}}" wx:key="{{item.code}}" wx:for-item="item">
       <!--按钮-->
